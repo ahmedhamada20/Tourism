@@ -1,0 +1,11 @@
+@extends('front.layout.master')
+@section('title')
+    {{trans('app.home')}}
+@endsection
+@section('css')
+@endsection
+@section('content')
+    //
+@endsection
+@section('js')
+@endsection
